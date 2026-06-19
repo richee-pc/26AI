@@ -4,7 +4,7 @@ import os
 
 # 1. 페이지 기본 설정 (브라우저 탭 이름, 아이콘, 레이아웃)
 st.set_page_config(
-    page_title="AI와 함께 스마트하게 일하기: 광주아이온 특강 자료",
+    page_title="AI와 함께 스마트하게 일하기: 중학교 선생님 실습 가이드",
     page_icon="🌸",
     layout="wide"
 )
